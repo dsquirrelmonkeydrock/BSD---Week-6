@@ -24,6 +24,6 @@ public class Card {
     }
 
     public void describe() {
-        System.out.println("your card is: " + name + " and the value is: " + value);
+        System.out.println(name + " and the value is: " + value);
     }
 }
